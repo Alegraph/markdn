@@ -52,6 +52,6 @@ if __name__ == '__main__':
 - Python, JavaScript *Stepik*
 
 ## Languages:
-* -English - Per-intermediate
-* -Deutsche - Basic
-* -Russian - Native
+* English - Per-intermediate
+* Deutsche - Basic
+* Russian - Native
